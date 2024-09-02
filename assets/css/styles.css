@@ -378,6 +378,11 @@ header{
   }
 
 }
+@media screen and (min-width: 360px) and (max-height: 800){
+  .article:first-of-type .home-img:first-of-type{
+    bottom: 45%;
+  }
+}
 /* For medium devices */
 
 @media screen and (min-width: 450px) {
